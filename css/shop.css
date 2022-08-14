@@ -1,0 +1,52 @@
+
+.single-right-left h3 {
+    text-transform: capitalize;
+    font-size: 23px;
+    color:#ea1d5d;
+    margin: 0;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.single-right-left p{
+    color: #000;
+    font-size: 20px;
+    margin: .5em 0 1em;
+}
+.single-right-left del {
+    color: #555;
+    margin-left: 10px;
+    font-weight: 300;
+    font-size: 0.8em;
+}
+.description{
+	margin:1.5em 0;
+}
+table{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.chat-button{
+    top: -150
+}
+.description input[type="submit"]{
+    color: white;
+    font-size: 16px;
+    background: gray;
+    border: none;
+    outline: none;
+	margin-top:12px;
+    margin-right: 40px;
+    padding: 7px 34px 9px;
+   /* letter-spacing: 2px;*/
+    text-transform: uppercase;
+}
+.description input[type="submit"]:hover{
+    background:#26bb48;
+}
+.product_price h4 a {
+    color: #959596;
+    font-size:13px;
+    font-family: 'Inconsolata', monospace;
+}

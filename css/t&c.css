@@ -1,0 +1,35 @@
+*{
+	font-family: Helvetica;
+}
+.div{
+	margin:auto;
+	margin-top:30px;
+	font-size: 18px;
+	width:50%;	
+	text-align: justify;
+	letter-spacing: 0.8px;
+}
+.check{
+	margin-left: 20px;
+	
+}
+.tbutton{
+	background-color:lightgreen;
+	color: ;
+	border-color: white;
+	border-radius: 8px; 
+	width: 19%;
+	height: 33px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.tbutton:hover{
+	background-color: powderblue;
+	border: 3px green;
+	color: black; 
+	border-radius: 8px;		
+}

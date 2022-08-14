@@ -1,0 +1,80 @@
+*{
+	font-family: Helvetica;
+}
+.container_sell{
+				max-width: 600px;
+				width: 100%;
+				background-color: #ffff;
+				margin: 0% auto;
+				padding: 30px;
+		}
+.container_sell .title{
+				font-size: 16px;
+				font-weight: 700;
+				margin-bottom: 25px;
+				color: ;
+				text-transform: uppercase;
+				text-align: ;
+	}
+
+.container_sell .sell_form .form_group{
+				margin-bottom: 10px;
+				display: flex;
+				align-items: center;
+	}
+
+.container_sell .sell_form .form_group label{
+				width: 120px;
+				color: #757575;
+				margin-right:10px;
+				font-size: 14px; 
+	}
+
+.container_sell .sell_form .form_group .sell_control{
+				width: 100%;
+				/*height: 15px;*/
+				outline: none;
+				border: 1px solid ;
+				font-size: 15px;
+				padding: 8px 10px;
+				border-radius: 3px;
+				transition: all 0.3s ease; 
+	}
+
+.container_sell .sell_form .form_group .sell_select{
+			position:;
+			padding-left:2px;
+			font-size: 15px;
+			width: 100%;
+			height: 20px;
+	}
+
+.container_sell .sell_form .form_group .sell_select select{
+			appearance:none ;
+			border:1px solid black;
+			width: 100%;
+			height: 10;
+			padding: 8px 10px;
+			border-radius: 3px;
+			outline: black;
+	}
+
+.container_sell .sell_form   .sell_btn{
+			margin: 15px;
+			width: 50%;
+			padding: 8px 10px;
+			font-size: 15px;
+			border: 0;
+			background: #FF7F50;
+			color:#fff;
+			cursor: pointer;
+			border-radius: 3px;
+			outline: none;
+	}
+
+.container_sell .sell_form .sell_btn:hover{
+	background-color: #FFA07A;
+	border: 3px green;
+	/*color: black; */
+	border-radius: 4px;		
+}
